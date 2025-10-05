@@ -1,7 +1,6 @@
 # Affect-Net
 This repository contains a complete structure and starter code for the assignment: facial expression (categorical) and valence/arousal (continuous) prediction using CNN baselines. It includes modular code, training/evaluation scripts, metrics.
 
-```
 # CNN Architectures for Facial Expression and Affect Recognition
 
 ## 1. Network Details
@@ -32,5 +31,4 @@ Arousal RMSE:0.3832, CORR:0.1717
 
 Observations: VGG16 outperformed others across most metrics. ResNet50 underperformed — likely due to overfitting on limited data. Custom CNN is fast but less accurate.
 
-```
 
